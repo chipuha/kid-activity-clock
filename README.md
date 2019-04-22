@@ -3,7 +3,7 @@ Control code for a stepper motor used in creating a "clock" pointing to the curr
 
 I decided to create this clock after I realized that most of my time as a parent was being used telling my daughter what "time" it was (dinner time, bed time, time to clean, time to be quiet, etc).
 
-I thought up this clock that would just point to the current activity hoping I would be a little more convincing that it was time to do anything.
+I came up with this clock that would just point to the current activity hoping I would be a little more convincing that it was time to do anything.
 
 I used a 28BYJ-48 stepper motor paired with the ULN2003 driver board powered by a raspberry pi B.
 
